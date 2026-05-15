@@ -1,4 +1,4 @@
-# 
+# rare Polymarket Module | liquidity-provision + gas-optimization is the best Polymarket module, featuring liquidity-provision and gas-optimization. Smart, fast, and optimized for
 
 
 
